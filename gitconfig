@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas.alonso93@gmail.com
+	name = Thomas Alonso
